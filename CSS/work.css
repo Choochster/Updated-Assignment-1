@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    }
+    
+    body{
+    background-image: url("../Media/Images/duane.gif");
+    background-position: top;
+    background-repeat: repeat;
+    text-align: center; 
+    font-family: 'Comic Neue', cursive;
+    }
+h1{
+    font-size: 100px;
+    color: red;
+}
+
+
+.clickme:hover{
+    background-color: rgb(24, 67, 187);
+    cursor: grab;
+    
+    }
+.waffle{
+    border: none;
+    background-color: rgb(98, 95, 252);
+    color: black;
+    padding: 15px 32px;
+    font-size: 16px;
+    
+    }
+    
+    .waffle:hover{
+        background-color: rgb(5, 12, 114);
+        cursor: grab;
+    
+    }
+
+    .selfie{
+        border: 20px dotted rgb(46, 46, 196);
+        margin-right: auto;
+        padding: 5px;
+        margin: 100px
+        
+
+    }
+
+    .lucario{
+        border: 20px dotted rgb(46, 46, 196);
+        margin-right: auto;
+        padding: 5px;
+        margin: 100px
+  
+    }
+
+    .miata{
+        border: 20px dotted rgb(46, 46, 196);
+        margin-right: auto;
+        padding: 5px;
+        margin: 100px
+
+    }

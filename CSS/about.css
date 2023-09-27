@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    }
+    
+
+body{
+    background-image: url("../Media/Images/IMG_3450.png");
+    background-position: bottom;
+    background-repeat: repeat;
+    text-align: center; 
+     }
+
+ h1{
+    font-size: 100px;
+    color: azure;
+    font-family: 'Comic Neue', cursive;
+}
+
+.clickme:hover{
+    background-color: rgb(24, 67, 187);
+    cursor: grab;
+   
+}
+
+.pancake{
+    border: none;
+    background-color: rgb(98, 95, 252);
+    color: black;
+    padding: 15px 32px;
+    font-size: 16px;
+    
+    }
+
+.pancake:hover{
+        background-color: rgb(5, 12, 114);
+        cursor: grab;
+       
+    }
+
+ .bean{
+        color: rgb(182, 8, 8);
+        font-size: 21px;
+        position: absolute;
+        background-color:lightblue; 
+        margin-right: auto;
+        padding: 5px;
+        margin: 100px
+    }
+
+    .banana{
+        color: rgb(182, 8, 8);
+        font-size: 21px;
+        position:absolute;
+        background-color:rgb(247, 153, 99); 
+        margin-right: auto;
+        padding: 5px;
+        margin: 600px;
+
+
+
+    }
+   
+    h3{
+        font-size: 40px;
+        color: azure;
+        font-family: 'Comic Neue', cursive;
+
+
+    }
